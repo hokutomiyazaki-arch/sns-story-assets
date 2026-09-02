@@ -1,0 +1,5 @@
+# 秘密は一切置かない。ここは公開リポジトリ
+.env
+.env.*
+secrets/
+.DS_Store
